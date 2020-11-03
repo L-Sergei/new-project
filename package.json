@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/L-Sergei/new-project/issues"
   },
-  "homepage": "https://github.com/L-Sergei/new-project#readme"
+  "homepage": "https://github.com/L-Sergei/new-project#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
