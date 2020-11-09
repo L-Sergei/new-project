@@ -19,5 +19,8 @@
   "homepage": "https://github.com/L-Sergei/new-project#readme",
   "dependencies": {
     "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
   }
 }
